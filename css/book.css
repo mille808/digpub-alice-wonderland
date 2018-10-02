@@ -1,18 +1,25 @@
 p {
   font-size: 110%;
-  font: "Georgia", serif;
+  font: "Garamond", serif;
 }
 
 h3 {
   font-weight: bold;
-  font: "Georgia", serif;
+  font: "Garamond", serif;
   font-size: 130%;
 }
 
 figcaption {
   font: "Times New Roman", serif;
+  font-style: italic;
+  font-weight: bold;
 }
 
 img {
   width: 600px;
+}
+
+blockquote {
+  text-align: center;
+  width: 400px;
 }
