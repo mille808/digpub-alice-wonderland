@@ -12,3 +12,7 @@ h3 {
 figcaption {
   font: "Times New Roman", serif;
 }
+
+img {
+  width: 600px;
+}
