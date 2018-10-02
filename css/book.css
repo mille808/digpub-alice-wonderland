@@ -1,0 +1,14 @@
+p {
+  font-size: 110%;
+  font: "Georgia", serif;
+}
+
+h3 {
+  font-weight: bold;
+  font: "Georgia", serif;
+  font-size: 130%;
+}
+
+figcaption {
+  font: "Times New Roman", serif;
+}
